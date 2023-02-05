@@ -1,6 +1,6 @@
 # Image Translation Comparisons
 
-This is the final project for "Deep Learning：Fundamentals and Applications" at National Chengchi University (NCCU) by Liang, Shih-Rui, Hsiao, Hung-Hsuan, and Hung, Jui-Fu. Full report is [here](https://drive.google.com/file/d/1vgil4dykWv6b_uyk_Hj8jQlZe4NRoV1e/view?usp=sharing).
+This is the final project for "Deep Learning：Fundamentals and Applications" at National Chengchi University (NCCU) by Liang, Shih-Rui, Hsiao, Hung-Hsuan, and Hung, Jui-Fu. Full report is [here](https://drive.google.com/file/d/1AZO57pdeNEYIapIESyMtDnGuQD4yrzeJ/view?usp=share_link).
 
 # Abstract
 
