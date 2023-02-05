@@ -1,0 +1,10 @@
+*.webp
+*.pyc
+.idea/
+*.gif
+imgs/
+*/logs/
+logs/
+*.ckpt
+.logs_old/
+test_images/output/
