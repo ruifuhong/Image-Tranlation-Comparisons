@@ -26,7 +26,7 @@ The original images and style images are downloaded from Kaggle. Styles of the i
 - CycleGAN (with U-Net)
 - AdaConv
 
-# Experimental Results and Discussions
+# Results and Discussions
 
 #### Chinese Ink
 
